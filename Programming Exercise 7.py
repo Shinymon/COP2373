@@ -1,5 +1,5 @@
 """
-This program will allow the user to enter a paragraph that may include sentences starting with numbers.
+This program allows the user to enter a paragraph that may include sentences starting with numbers.
 It splits the paragraph into individual sentences using lookahead regular expressions
 and then displays each sentence and the total sentence count.
 """
