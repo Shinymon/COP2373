@@ -27,7 +27,7 @@ def display_sentences(sentences):
 
 
 def main():
-    paragraph = input("Enter a paragraph (you can include sentences that begin with numbers):\n")
+    paragraph = input("Enter a paragraph:\n")
     sentences = split_sentences(paragraph)
     display_sentences(sentences)
 
